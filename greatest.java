@@ -2,7 +2,7 @@
 public class greatest {
 	public static void main(String[] args) {
 
-        int  a=10 , b=100, c=50;
+        int  a=11 , b=110, c=51;
 
         if (a>b && a<c) {
 
